@@ -15,4 +15,4 @@
 // var usernamename = prompt("What's your name?");
 // var hobby = prompt("What's your favorite hobby?");
 // var country = prompt("Which country are you from?");
-// alert("Hi, I'm " + username + " from " + country + ", and I love " + hobby );
+// alert("Hi, I am  " + username + " from " + country + ", and I love " + hobby );
